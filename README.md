@@ -50,9 +50,8 @@ The final Tableau dashboard focuses on the **cheapest protein sources** (≥20% 
 
 ## 👥 Team Contributions
 
-- **[@friendusername](https://github.com/friendusername)** – JavaScript scraping, URL extraction
-- **Saurav Nambiar** – Data visualization in Tableau, joint data processing
-- **Joint work** – Data scraping, cleaning, and analysis using Python
+- **[Mervin Shibu George](https://github.com/mervinshibu)**
+- **[Saurav Nambiar](https://github.com/saurav2267)**
 
 ---
 
